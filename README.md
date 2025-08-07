@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Stats Card 3](https://awesome-github-stats.azurewebsites.net/user-stats/Gouriapnair123?theme=dracula&cardType=level-alternate)
 <!--
 **Gouriapnair123/Gouriapnair123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
